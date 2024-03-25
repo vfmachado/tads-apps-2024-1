@@ -23,7 +23,7 @@ export default function App() {
       <Button title="Mostrar/Esconder" onPress={() => setShow(!show)} />
       
       { show &&
-      <Contador fnAlteraValor={setQuantidadeItems} valorInicial={quantidadeItems} />
+      <Contador fnAlteraValor={setQuantidadeItems} valorInicial={quant} />
       }
       <Text>{quantidadeItems}</Text>
 
