@@ -36,29 +36,29 @@ vestíveis, noções de desenvolvimento de jogos e tópicos emergentes no front-
 
 * Semana 06 - Contexts Hooks
 
-* Semana 07 - Outros Hooks
+* Semana 07 - Outros Hooks  - https://react.dev/reference/react/hooks ATÉ CALLBACK
 
-* Semana 08 - Navegação & TRABALHO II
+* Semana 08 - Navegação 08/07/2024 - RETOMADA POS GREVE
 
-* Semana 09 - CSS com Styled-Components
+* Semana 09 - Frameworks de componentes x CSS com tailwind
 
-* Semana 10 - CSS com libs de componentes
+* Semana 10 - 
 
-* Semana 11 - CSS com tailwind
+* Semana 11 - 
 
-* Semana 12 - Storage Local + Dúvidas & TRABALHO III
+* Semana 12 - Abstração Storage Local  + APIS (Data Fetch)
 
-* Semana 13 - Comunicação com APIs
+* Semana 13 - TRABALHO II
 
-* Semana 14 - Auth Context e Data Fetch
+* Semana 14 - 
 
-* Semana 15 - Formulários (Formik & ReactHookForm)
+* Semana 15 - Formulários (Formik & ReactHookForm) 
 
-* Semana 16 - Validação de tipos e gerenciamento de erros & TRABALHO IV
+* Semana 16 - Validação de tipos (TS) e gerenciamento de erros & TRABALHO III
 
-* Semana 17 - Dúvidas e Ajuda Trabalho
+* Semana 17 - 
 
-* Semana 18 - Dúvidas e Ajuda Trabalho
+* Semana 18 -
 
 * Semana 19 - Coringa
 
